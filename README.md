@@ -50,4 +50,4 @@ Python, pandas, NumPy, scikit-learn, CatBoost, Matplotlib, Seaborn
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Put `train.csv`, `test.csv` and `sample_submission.csv` in an `input/` folder
-3. Run `NFL_model.ipynb` (originally built in Google Colab)
+3. Run `nfl-draft-prediction.ipynb` (originally built in Google Colab)
